@@ -1,0 +1,14 @@
+{
+    "id":"acode.plugin.nekoTheme",
+    "name":"Neko Dracula",
+    "main":"dist/main.js",
+    "version":"1.0.0",
+    "minVersionCode": 270,
+    "readme":"readme.md",
+    "icon":"icon.png",
+    "files":[],
+    "author": {
+      "name":"Neko",
+      "email":"ciccabr9@gmail.com",
+      "github":"neko-themes"
+    }}
